@@ -1,0 +1,23 @@
+{
+  "name": "my-test-pipeline",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/victornovoam/my-test-pipeline.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/victornovoam/my-test-pipeline/issues"
+  },
+  "homepage": "https://github.com/victornovoam/my-test-pipeline#readme",
+  "dependencies": {
+    "jest": "^29.3.1"
+  }
+}
